@@ -14,7 +14,7 @@ It was written in Python and was originally intended to run on a TI Nspire CX II
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![rsz_2](https://user-images.githubusercontent.com/50271264/124822263-f59cf400-df6f-11eb-9ac0-7865a5752254.png)
 # Attention: #
-    Make sure that the coefficients are in the correct order
+    Make sure that the coefficients are in the correct order!
 
 
 
