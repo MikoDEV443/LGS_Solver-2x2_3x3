@@ -1,3 +1,4 @@
+![2x2](https://user-images.githubusercontent.com/50271264/124815265-5d027600-df67-11eb-9c4e-7a2d6db2ce60.png)
 # LGS_Solver-2x2_3x3 made for linear equations.
 LGS Solver-2x2_3x3 is a program to solve linear 2x2 and 3x3 systems of equations.
 It was written in Python and was originally intended to run on a TI Nspire CX II-T CAS calculator with Python.
